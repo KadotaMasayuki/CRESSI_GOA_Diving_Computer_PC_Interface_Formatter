@@ -6,7 +6,7 @@ https://www.cressi.com/software
 を使ってダウンロードしたデータはJSONで、これをCSVにする。
 
 # 動作
-上記ダウンロードツールでダウンロードしたJSONファイルを読み込み、CSVに変換して保存する
+上記ダウンロードツールでダウンロードしたJSONファイルを読み込み、CSVに変換して保存する。Python版とC#版あり。
 
 # Pythonで書いた
 依存 : import json
